@@ -1,0 +1,12 @@
+C:\Users\sisko\RiderProjects\AI Services\AIs\bin\Debug\net8.0\AIs.deps.json
+C:\Users\sisko\RiderProjects\AI Services\AIs\bin\Debug\net8.0\AIs.dll
+C:\Users\sisko\RiderProjects\AI Services\AIs\bin\Debug\net8.0\AIs.pdb
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.csproj.AssemblyReference.cache
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.AssemblyInfoInputs.cache
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.AssemblyInfo.cs
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.csproj.CoreCompileInputs.cache
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.dll
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\refint\AIs.dll
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\AIs.pdb
+C:\Users\sisko\RiderProjects\AI Services\AIs\obj\Debug\net8.0\ref\AIs.dll

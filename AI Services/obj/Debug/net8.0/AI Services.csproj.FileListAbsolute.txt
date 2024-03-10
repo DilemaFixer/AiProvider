@@ -1,0 +1,19 @@
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AI Services.exe
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AI Services.deps.json
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AI Services.runtimeconfig.json
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AI Services.dll
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AI Services.pdb
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AIs.dll
+C:\Users\sisko\RiderProjects\AI Services\AI Services\bin\Debug\net8.0\AIs.pdb
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.csproj.AssemblyReference.cache
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.AssemblyInfoInputs.cache
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.AssemblyInfo.cs
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.csproj.CoreCompileInputs.cache
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.csproj.CopyComplete
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.dll
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\refint\AI Services.dll
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.pdb
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\AI Services.genruntimeconfig.cache
+C:\Users\sisko\RiderProjects\AI Services\AI Services\obj\Debug\net8.0\ref\AI Services.dll
